@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.21ec2b6f.css","mappings":"AAAA,GACI,oBAAqB,CAErB,WAAY,CACZ,YAEJ,CACA,GACI,wBACJ","sources":["Navbar.css"],"sourcesContent":["li{\r\n    display: inline-block;\r\n  \r\n    margin: 10px;\r\n    padding: 10px;\r\n  \r\n}\r\nul {\r\n    background-color: rgb(61, 255, 249);\r\n}"],"names":[],"sourceRoot":""}
